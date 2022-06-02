@@ -45,6 +45,7 @@ body{
 .main button:hover{
     box-shadow: 2px 2px 5px #555;
     background-color: #7799d4;
+    cursor: pointer;
 }
 .main input:hover{
     box-shadow: 2px 2px 5px #555;
